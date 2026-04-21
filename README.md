@@ -1,4 +1,4 @@
-# 🎨 Dibujodelineas2
+# Dibujodelineas2
 
 Proyecto básico en **HTML** y **JavaScript** que permite dibujar líneas dentro de un elemento `<canvas>`, calculando sus posiciones de forma dinámica a partir de un número ingresado por el usuario.
 
@@ -6,7 +6,7 @@ Proyecto básico en **HTML** y **JavaScript** que permite dibujar líneas dentro
 
 ---
 
-## 🚀 Descripción
+## Descripción
 
 **Dibujodelineas2** es un proyecto creado como práctica para comprender el uso del elemento `<canvas>` de HTML y su manipulación mediante JavaScript puro.
 
@@ -15,14 +15,14 @@ Es una excelente introducción al dibujo programático en la web.
 
 ---
 
-## 🧰 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **HTML5** → estructura del documento y definición del lienzo (`<canvas>`).
 - **JavaScript (Vanilla JS)** → cálculos y dibujo dinámico en el canvas mediante la API `CanvasRenderingContext2D`.
 
 ---
 
-## 🧮 Funcionamiento
+## Funcionamiento
 
 1. El usuario introduce un número en un campo de entrada.
 2. El programa toma ese número para calcular las coordenadas de cada línea.
